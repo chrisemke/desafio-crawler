@@ -1,3 +1,20 @@
+<!--Web scraping code challenge
+Copyright (C) 2023 Christian G. Semke.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+-->
+
 # beeMôn:
 
 Na beeMôn criamos muitos sistemas de raspagem de dados e buscamos todos os dias inovação na analise dos dados. Este desafio esta aberto para todos que quiserem abrir um fork e submeter suas ideias de tecnologia.
@@ -25,11 +42,11 @@ Escolher uma dos sites abaixo para fazer o desafio
 
 ### Libs sugeridas:
 
- - Selenium 
+ - Selenium
  - Scrapy
  - Pandas
  - Requests
- - BeautifulSoup 
+ - BeautifulSoup
 
 
 ### O que iremos avaliar:
@@ -45,6 +62,3 @@ Escolher uma dos sites abaixo para fazer o desafio
 - Cobertura de testes
 - Tempo de execução do código
 - Versionamento do código
-
-
-
